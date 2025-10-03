@@ -56,3 +56,5 @@ The Local RAG Assistant is a powerful, secure, and entirely local application fo
     streamlit run app.py
     ```
 3.  The application will open in your web browser. The system will automatically build the vector store on the first run.
+<img width="1857" height="737" alt="{18F6AE27-5B78-44EA-9774-44E0E4EEDBEB}" src="https://github.com/user-attachments/assets/246ab500-ca22-47b0-8d50-822a199d85d5" />
+
