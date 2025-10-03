@@ -8,8 +8,7 @@ The Local RAG Assistant is a powerful, secure, and entirely local application fo
 *   **Retrieval-Augmented Generation (RAG):** Uses a sophisticated RAG pipeline to retrieve relevant text chunks from custom documents, providing the LLM with context for generating highly accurate and factual answers.
 *   **Modern Language Models:** Utilizes the Phi-3 Mini LLM for high-quality, concise answer generation and the All-MiniLM model for efficient document chunk embedding.
 *   **Persisted Knowledge Base:** The document knowledge base is built and persisted using Chroma, allowing for fast startup and reuse without re-processing documents.
-*   **Intuitive UI with Streamlit:** Features a user-friendly web interface for document interaction, displaying response time metrics and allowing users to view the exact source context used by the model for transparency.
-*   **Scalable Document Handling:** Capable of loading and processing documents from a specified directory (.txt files supported) to build a custom, searchable knowledge base.
+*   **Intuitive UI with Streamlit:** Features a user-friendly web interface for document interaction.
 *   **Advanced Retrievability:** Incorporates smart retrieval mechanisms (e.g., top k=2 similarity search) to fetch the most relevant content, ensuring context quality for the LLM.
 
 ## ⚙️ Technical Stack
